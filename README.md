@@ -1,7 +1,7 @@
 # SleepingTAs  
 
 ## Overview  
-This project is a simulation of the **Sleeping Barber Problem**, implemented in Java. It demonstrates **parallelism** and **thread safety**, using **JavaFX** for the graphical user interface.  
+This project is a simulation of the **Sleeping Barber Problem**, implemented in Java. It demonstrates **Multi Threading** , using **JavaFX** for the graphical user interface.  
 
 ## Prerequisites  
 - **Java 17** or later  
